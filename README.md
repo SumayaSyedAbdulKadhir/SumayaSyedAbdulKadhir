@@ -1,24 +1,37 @@
-# Hi there! 👋 I'm Sumaya Syed Abdul Kadhir  
 
-Welcome to my GitHub profile!  
+## Hi there! 👋 I'm Sumaya Syed Abdul Kadhir  
 
-### 🔹 About Me  
-💻 **Passionate about Frontend Development** – I love crafting clean, user-friendly interfaces.  
-🧠 **Enthusiastic about Problem-Solving & Analytical Thinking** – Always up for a challenge!  
-🌱 **Currently working on Web Design & Development** – Focusing on both **UI and coding** to build interactive experiences.  
-💡 **Strengthening my coding skills** – Exploring new technologies and sharpening my logic every day.  
+### 👩‍💻 About Me  
+- 🎨 Passionate about **Web Design & Development**, combining **UI & Code**  
+- 🧩 Enthusiastic about **problem-solving & analytical thinking**  
+- 💻 Currently strengthening my **coding skills** while working on web projects  
 
-### 🔹 Projects I've Worked On  
-🌍 **Pro Planet Person** – A web-based project promoting **eco-friendly initiatives and sustainability**.  
-🔐 **Privacy-Preserving Drug Response Prediction** – Using **Federated Learning & Genomic Analysis** for secure medical insights.  
-🩸 **Non-Invasive Blood Group Detection** – Currently developing a **tech-driven approach to determine blood groups without invasive methods**.  
+---
 
-### 📊 GitHub Stats  
-![Sumaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumayaSyedAbdulKadhir&show_icons=true&theme=radical)  
+### 🚀 Projects I've Worked On  
+🔹 **Pro Planet Person** – Frontend development with **HTML, CSS, JavaScript**  
+🔹 **Privacy-Preserving Drug Response Prediction** – Using **Federated Learning & Genomic Analysis**  
+🔹 **Non-Invasive Blood Group Detection** – Ongoing research project  
 
-### 🔥 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumayaSyedAbdulKadhir&layout=compact&theme=radical)  
+---
 
-### 🔹 Let's Connect!  
-📫 Reach me at **[Your Email or LinkedIn]**  
-⚡ Fun fact: I enjoy painting and watching movies in my free time! 🎨🎬  
+### 💡 Tech & Skills  
+✨ **Languages:** Java, JavaScript, HTML, CSS, SQL, C  
+⚡ **Tools & Frameworks:** React.js, Tableau, MySQL, GitHub  
+🎨 **Interest:** **Web Design & Development (UI & Code)**
+
+---
+
+<!-- Animated Hijabi Girl Working on Laptop -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2b/75/94/2b75946295a3bb4499fa5082e6f2c5f6.gif" width="250" />
+</p>
+
+<!-- GitHub Stats with Custom Title -->
+![🚀 Sumaya's Coding Journey](https://github-readme-stats.vercel.app/api?username=SumayaSyedAbdulKadhir&show_icons=true&theme=radical&custom_title=🚀%20Sumaya's%20Coding%20Journey)
+
+---
+
+### 📫 Connect with Me  
+[![LinkedIn](https://www.linkedin.com/in/sumayasyedabdulkadhir/)](your-linkedin-url)  
+  
