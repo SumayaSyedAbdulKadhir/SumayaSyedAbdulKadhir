@@ -1,8 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm <strong>Sumaya Syed Abdul Kadhir</strong> 🚀</h1>
 
-<div align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200px">
-</div>
 
 ---
 
@@ -79,7 +76,7 @@
 
 ---
 
-## 🎉 Fun Animated Quote  
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2373C2FB&size=22&center=true&vCenter=true&width=500&lines=I+love+Designing+and+Developing!;Problem+Solving+is+my+superpower!;Always+learning+new+technologies!;Building+engaging+user+experiences!;Aim+High+Achieve+Higher!">
 </div>
