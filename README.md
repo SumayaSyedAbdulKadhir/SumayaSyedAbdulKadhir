@@ -22,11 +22,7 @@
 
 ---
 
-<div align="center">
-  <img src=<div align="center">
-  <img src="C:\Users\SUMAYA S\Downloads\ai-generated-8949239_1280.jpg" />
-</div>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SumayaSyedAbdulKadhir&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
 
 ### 📫 Connect with Me  
