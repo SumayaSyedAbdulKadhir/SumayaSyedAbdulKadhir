@@ -22,8 +22,9 @@
 
 ---
 
-<div id="header" align="center">
-  <img src=https://giphy.com/gifs/Jiligaga-cartoon-kids-jiligaga-w0Fy3hcQuZxxQgo0KR/>
+<div align="center">
+  <img src=<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 </div>
 
 ---
