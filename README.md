@@ -21,7 +21,8 @@
 🎨 **Interest:** **Web Design & Development (UI & Code)**
 
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SumayaSyedAbdulKadhir&theme=midnight-purple)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SumayaSyedAbdulKadhir)](https://git.io/streak-stats)
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://www.linkedin.com/in/sumayasyedabdulkadhir/)](your-linkedin-url)  
