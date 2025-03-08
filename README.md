@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src=<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+  <img src="C:\Users\SUMAYA S\Downloads\ai-generated-8949239_1280.jpg" />
 </div>
 
 ---
