@@ -27,7 +27,7 @@
 - **Role:** Full Stack Developer (React Focused)  
 - **Tech Used:** React.js, Firebase, TMDB API, CSS  
 - **Description:** Created a **fully functional Netflix clone** with **user authentication**, **real-time database integration**, and **dynamic movie browsing** using TMDB API.  
-- 🔗 [View Project on GitHub]([https://github.com/YourUsername/netflix-clone](https://github.com/SumayaSyedAbdulKadhir/NETFLIX-MERN-)) *(replace this link with your actual repo)*  
+- 🔗 [View Project on GitHub]([https://github.com/YourUsername/netflix-clone](https://github.com/SumayaSyedAbdulKadhir/NETFLIX-MERN-)) 
 - 💡 *Strengthened my ReactJS skills and built a production-grade UI mimicking an industry-standard platform.*  
 
 ---
