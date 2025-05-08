@@ -12,11 +12,21 @@
 ---
 
 ## 🚀 Projects I've Worked On  
+
 ### 🔥 **Pro Planet Person**  
 - **Role:** Frontend Developer  
 - **Tech Used:** HTML, CSS, JavaScript  
 - **Description:** Developed a **responsive, user-friendly interface** to promote **sustainability**.  
 - 💡 *Enhanced my skills in frontend development and web design.*  
+
+---
+
+### 🎬 **Netflix Clone Web App**  
+- **Role:** Full Stack Developer (React Focused)  
+- **Tech Used:** React.js, Firebase, TMDB API, CSS  
+- **Description:** Created a **fully functional Netflix clone** with **user authentication**, **real-time database integration**, and **dynamic movie browsing** using TMDB API.  
+- 🔗 [View Project on GitHub](https://github.com/YourUsername/netflix-clone) *(replace this link with your actual repo)*  
+- 💡 *Strengthened my ReactJS skills and built a production-grade UI mimicking an industry-standard platform.*  
 
 ---
 
@@ -34,7 +44,6 @@
 - **Description:** Working on a project to **detect blood groups** using **RGB image analysis** without traditional methods.  
 - 💡 *Exploring innovative solutions in healthcare using technology.*  
 
----
 
 ## 💻 Tech & Skills  
 
