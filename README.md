@@ -3,7 +3,7 @@
 <p align="center">
   💼 <strong>Currently seeking opportunities as a Full Stack Developer</strong> – passionate about building powerful web apps with <strong>React, Node.js</strong>, and a pixel-perfect eye for design.
 </p>
----
+
 
 ## 💡 About Me  
 - 🎨 **Passionate about Web Design & Development**, blending **UI & Code**  
